@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://anrodon.github.io/al-folio/sitemap.xml
+Sitemap: https://anrodon.github.io/sitemap.xml
