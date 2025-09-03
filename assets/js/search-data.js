@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-spain-s-bumpy-road-towards-electrification",
+        },{id: "post-predicting-road-accidents-in-spain-using-open-data",
+        
+          title: "Predicting road accidents in Spain using Open Data",
+        
+        description: "How Open Data can help to improve the security of our roads",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Predicting-road-accidents-in-Spain-using-Open-Data/";
+          
+        },
+      },{id: "post-spain-s-bumpy-road-towards-electrification",
         
           title: "Spain’s bumpy road towards electrification",
         
