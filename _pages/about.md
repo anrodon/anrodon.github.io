@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Innovation, Finance, Digital Business & Cars 📍Barcelona
 
 profile:
   align: right
