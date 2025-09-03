@@ -27,7 +27,7 @@ latest_posts:
 
 📍 Barcelona born & based
 
-💡 **Passionate about where tech meets business**
+💡 Passionate about where **tech meets business**
 
 🏢 Experience with both **agile startups** & **large corporations**
 
