@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Innovation, Finance, Digital Business & Cars <br/>📍Barcelona
+subtitle: 
 
 profile:
   align: right
@@ -23,8 +23,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Passionate about where tech meets business, rare mix of finance, strategy, and software engineering. 
+🚀 **Innovation, Finance, Digital Business & Cars**  
 
-I’ve worked with agile startups and large corporates, always driving innovation with a business-first mindset.
+📍 Barcelona born & based  
 
-I’m all about turning ideas into results. Let’s connect if you're into building smart, future-ready businesses. 🤟🏼
+💡 **Passionate about where tech meets business** 
+
+🏢 Experience with both **agile startups** & **large corporations** 
+
+⚡ Always up to turning **ideas into real results** 
+
+🤝 Let’s connect if you’re into building **smart, future-ready businesses**
+
+`#finance` `#strategy` `#software` `#innovation` `#cars` `#digitalbusiness`
