@@ -4,6 +4,7 @@ permalink: /blog/
 title: blog
 nav: true
 nav_order: 1
+social: true
 pagination:
   enabled: true
   collection: posts
@@ -191,6 +192,18 @@ pagination:
 
 {% if page.pagination.enabled %}
 {% include pagination.liquid %}
+{% endif %}
+
+<!-- Social -->
+
+{% if page.social %}
+
+  <div class="social">
+    <div class="contact-icons">{% include social.liquid %}</div>
+
+    <div class="contact-note">{{ site.contact_note }}</div>
+
+  </div>
 {% endif %}
 
 </div>
