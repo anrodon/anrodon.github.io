@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle:
 
 profile:
   align: right
@@ -23,15 +23,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-🚀 **Innovation, Finance, Digital Business & Cars**  
+🚀 **Innovation, Finance, Digital Business & Cars**
 
-📍 Barcelona born & based  
+📍 Barcelona born & based
 
-💡 **Passionate about where tech meets business** 
+💡 **Passionate about where tech meets business**
 
-🏢 Experience with both **agile startups** & **large corporations** 
+🏢 Experience with both **agile startups** & **large corporations**
 
-⚡ Always up to turning **ideas into real results** 
+⚡ Always up to turning **ideas into real results**
 
 🤝 Let’s connect if you’re into building **smart, future-ready businesses**
 
