@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Innovation, Finance, Digital Business & Cars\📍Barcelona
+subtitle: Innovation, Finance, Digital Business & Cars <br/>📍Barcelona
 
 profile:
   align: right
