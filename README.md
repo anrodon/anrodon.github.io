@@ -1,1 +1,1 @@
-Powered by [Jekyll](https://jekyllrb.com/){:target="\_blank"} with [al-folio](https://github.com/alshedivat/al-folio) theme.
+Powered by [Jekyll](https://jekyllrb.com/) with [al-folio](https://github.com/alshedivat/al-folio) theme.
