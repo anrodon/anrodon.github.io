@@ -1,10 +1,16 @@
 ---
 layout: post
 title: I uploaded to Kaggle the microdata of all the cars registered in Spain for the last 10 years
-date: 2025-09-04 16:11:00-0400
+date: 2025-09-04 00:00:00-0400
 inline: false
 related_posts: false
+tags: cars Spain data
+categories: data-science cars
+giscus_comments: true
+social: true
 ---
+
+{% include figure.liquid loading="eager" path="assets/img/news/i-uploaded-to-kaggle-the-microdata-of-all-the-cars-registered-in-spain-for-the-last-10-years/kaggle_screenshot.png" class="img-fluid rounded z-depth-1" %}
 
 Yes I did.
 

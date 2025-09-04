@@ -4,7 +4,7 @@ title: Spain’s bumpy road towards electrification
 date: 2025-04-07 12:00:00
 description: What the last 12 months of car registrations in Spain tell us about its path to a zero-emissions car park
 tags: cars Spain data
-categories: data-science cars
+categories: data-science cars code
 giscus_comments: true
 social: true
 ---

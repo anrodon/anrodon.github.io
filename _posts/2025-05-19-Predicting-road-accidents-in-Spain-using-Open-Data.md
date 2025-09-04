@@ -4,7 +4,7 @@ title: Predicting road accidents in Spain using Open Data
 date: 2025-05-19 12:00:00
 description: How Open Data can help to improve the security of our roads
 tags: cars Spain data
-categories: data-science cars
+categories: data-science cars code
 giscus_comments: true
 social: true
 ---
