@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I uploaded to Kaggle the microdata of all the cars registered in Spain for the last 10 years
-date: 2025-09-04 12:00:00-0000
+date: 2025-09-04 16:11:00-0400
 inline: false
 related_posts: false
 ---
