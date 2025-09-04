@@ -38,7 +38,12 @@ ninja.data = [{
             window.location.href = "/blog/2025/Spain's-bumpy-road-towards-electrification/";
           
         },
-      },{
+      },{id: "news-i-uploaded-to-kaggle-the-microdata-of-all-the-cars-registered-in-spain-for-the-last-10-years",
+          title: 'I uploaded to Kaggle the microdata of all the cars registered in Spain...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/I_uploaded_to_kaggle_the_microdata_of_all_the_cars_registered_in_spain_for_the_last_10_years/";
+            },},{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
