@@ -8,7 +8,7 @@ categories: cars business
 giscus_comments: true
 social: true
 ---
-
+ 
 {% include figure.liquid loading="eager" path="assets/img/posts/2026-01-10-What-Christmas-in-Lisbon-told-me-about-cars/tram-lisbon-tuk-tuk.webp " class="img-fluid rounded z-depth-1" %}
 
 Christmas is usually associated with family dinners, shared time, and a welcome pause from everyday routines; sometimes even with the perfect excuse to plan one last trip before the year ends.
