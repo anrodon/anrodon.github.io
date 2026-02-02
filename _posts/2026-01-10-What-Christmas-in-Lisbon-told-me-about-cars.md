@@ -67,4 +67,5 @@ This apparent paradox (fewer charging points but much higher adoption) illustrat
 
 I truly hope that 2026 will be the year of the electromobility revolution in Spain and across Europe. With exciting launches like the [CUPRA Raval](https://www.cupraofficial.es/coches/raval) and the VW Group’s Urban EV family, there are strong drivers pushing the shift toward cleaner, smarter, and more accessible electric vehicles.
 
-<h5 style="text-align: center;font-weight: bold;">For me, Lisbon was a vivid reminder that the future of mobility is already here, it just needs the right incentives, infrastructure, and mindset to take hold. And now I turn the question to you: what’s your electromobility wish for 2026?</h5>
+For me, Lisbon was a vivid reminder that the future of mobility is already here, it just needs the right incentives, infrastructure, and mindset to take hold. 
+<h5 style="text-align: center;font-weight: bold;">And now I turn the question to you: what’s your electromobility wish for 2026?</h5>
