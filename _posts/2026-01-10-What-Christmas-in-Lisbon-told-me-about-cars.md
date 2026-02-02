@@ -30,7 +30,7 @@ From older and more affordable Renault Zoes to far more advanced XPENG models, p
 
 Lisbon is full of these open vehicles, sometimes with three wheels, sometimes more, ferrying tourists through the city’s narrow streets. They offer guided tours of the main landmarks while enthusiastically sharing local history, and, just as importantly, recommending the best spots for _ginjinha_ and _pastéis de Belém_ along the way. **An overwhelming majority of them are electric,** to the point where spotting one still running on fossil fuels felt more like the exception than the rule. Not to also mention the hundreds of electric scooters spread along the city.
 
-<h4 style="text-align: center;">**Lisbon really moves on electric wheels!**</h4>
+<h3 style="text-align: center;font-weight: bold;">Lisbon really moves on electric wheels!</h3>
 
 We ended our walk with some incredible views at one of Lisbon’s most famous viewpoints, the _Miradouro de São Pedro de Alcântara_. By then it was already getting dark and we were noticeably tired, so we ordered another electric Uber, this time a more modest Renault Zoe.
 
@@ -63,8 +63,8 @@ According to [Electromaps] (https://www.electromaps.com/en/charging-stations/por
 
 This apparent paradox (fewer charging points but much higher adoption) illustrates that infrastructure alone is not the only factor driving electromobility. Portugal has achieved this level of EV penetration through a combination of strong government incentives, including purchase subsidies and tax benefits, progressive urban policies encouraging EV use in cities, and a cultural openness to electric mobility, as evidenced by the ubiquity of EVs in Lisbon’s streets and ride-hailing fleet.
 
-<h5 style="text-align: center;">Spain, by comparison, could learn from Portugal’s approach. Greater coordination of incentives, more flexible urban policies, and public awareness campaigns could encourage drivers to embrace EVs even before infrastructure reaches critical mass. Portugal demonstrates that with the right regulatory framework and social mindset, electromobility can rapidly become a reality, something we experienced firsthand during our short stay in Lisbon, where EVs felt like an integral part of everyday life rather than an exception.</h5>
+<h5 style="text-align: center;font-weight: bold;">Spain, by comparison, could learn from Portugal’s approach. Greater coordination of incentives, more flexible urban policies, and public awareness campaigns could encourage drivers to embrace EVs even before infrastructure reaches critical mass. Portugal demonstrates that with the right regulatory framework and social mindset, electromobility can rapidly become a reality, something we experienced firsthand during our short stay in Lisbon, where EVs felt like an integral part of everyday life rather than an exception.</h5>
 
 I truly hope that 2026 will be the year of the electromobility revolution in Spain and across Europe. With exciting launches like the [CUPRA Raval](https://www.cupraofficial.es/coches/raval) and the VW Group’s Urban EV family, there are strong drivers pushing the shift toward cleaner, smarter, and more accessible electric vehicles.
 
-<h4 style="text-align: center;">For me, Lisbon was a vivid reminder that the future of mobility is already here, it just needs the right incentives, infrastructure, and mindset to take hold. And now I turn the question to you: **what’s your electromobility wish for 2026?**</h4>
+<h5 style="text-align: center;font-weight: bold;">For me, Lisbon was a vivid reminder that the future of mobility is already here, it just needs the right incentives, infrastructure, and mindset to take hold. And now I turn the question to you: what’s your electromobility wish for 2026?</h5>
