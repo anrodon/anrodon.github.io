@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-predicting-road-accidents-in-spain-using-open-data",
+        },{id: "post-what-christmas-in-lisbon-told-me-about-cars",
+        
+          title: "What Christmas in Lisbon told me about cars",
+        
+        description: "My thoughs about Portugal&#39;s management of urban mobility and a more sustainable car park.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/What-Christmas-in-Lisbon-told-me-about-cars/";
+          
+        },
+      },{id: "post-predicting-road-accidents-in-spain-using-open-data",
         
           title: "Predicting road accidents in Spain using Open Data",
         
