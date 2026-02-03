@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The impulse of the new generation is unstopabble!
+title: The impulse of the new generation is unstoppable!
 date: 2026-01-23 00:00:00-0400
 inline: false
 related_posts: false
