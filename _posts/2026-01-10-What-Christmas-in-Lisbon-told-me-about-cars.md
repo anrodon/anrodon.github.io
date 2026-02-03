@@ -7,7 +7,7 @@ tags: cars Portugal travel business
 categories: cars business
 giscus_comments: true
 social: true
----
+--- 
  
 {% include figure.liquid loading="eager" path="assets/img/posts/2026-01-10-What-Christmas-in-Lisbon-told-me-about-cars/tram-lisbon-tuk-tuk.webp " class="img-fluid rounded z-depth-1" %}
 
