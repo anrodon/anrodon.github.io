@@ -57,7 +57,7 @@ _LX Factory_ was a super enjoyable experience. Essentially, it’s an old factor
 
 To round off our final day, we headed to Lisbon’s Christmas Market at _Parque Eduardo VII_, one of the largest in Europe. The festive atmosphere was alive with the usual delights: _bifanas_, _ginjinha_, _pastéis de Belém_, and steaming cups of hot wine. Yet even there, the city’s electric mobility culture made itself felt: various energy companies had set up brand activations showcasing new plans and products, including EV solutions, highlighting how sustainability and innovation have become part of Lisbon’s public consciousness.
 
-Our last Uber ride was the 31st of December from the _Calouste Gulbenkian_ Museum (an outstanding contemporary art museum) to the airport. This time, the car was a much more well maintained Tesla Model 3, and our driver, _António_, took full advantage of the ride to showcase all its entertaining features, **including the infamous Tesla _Fart Mode_, which he confessed he occasionally uses to have some fun with his kids.** 
+Our last Uber ride was the 31st of December from the _Calouste Gulbenkian_ Museum (an outstanding contemporary art museum) to the airport. This time, the car was a much more well maintained Tesla Model 3, and our driver, _António_, took full advantage of the ride to showcase all its entertaining features, **including the infamous Tesla _Fart Mode_, which he confessed he occasionally uses to have some fun with his kids.**
 
 According to [Electromaps](https://www.electromaps.com/en/charging-stations/portugal/lisboa), the city of Lisbon has more than 1.122 electric vehicle charging points, less than half of the ones that Barcelona has according to the same [source](https://www.electromaps.com/en/charging-stations/spain/barcelona). As highlighted by [Polígrafo](https://poligrafo.sapo.pt/fact-check/percentagem-de-novos-carros-eletricos-registados-em-portugal-em-2024-e-cerca-de-quatro-vezes-superior-a-de-espanha/) **Portugal registered in 2024 nearly four times the percentage of new electric vehicles relative to total car registrations compared to Spain.**
 
@@ -67,5 +67,5 @@ This apparent paradox (fewer charging points but much higher adoption) illustrat
 
 I truly hope that 2026 will be the year of the electromobility revolution in Spain and across Europe. With exciting launches like the [CUPRA Raval](https://www.cupraofficial.es/coches/raval) and the VW Group’s Urban EV family, there are strong drivers pushing the shift toward cleaner, smarter, and more accessible electric vehicles.
 
-For me, Lisbon was a vivid reminder that the future of mobility is already here, it just needs the right incentives, infrastructure, and mindset to take hold. 
+For me, Lisbon was a vivid reminder that the future of mobility is already here, it just needs the right incentives, infrastructure, and mindset to take hold.
 <h5 style="text-align: center;font-weight: bold;">And now I turn the question to you: what’s your electromobility wish for 2026?</h5>
