@@ -56,7 +56,12 @@ ninja.data = [{
             window.location.href = "/blog/2025/Spain's-bumpy-road-towards-electrification/";
           
         },
-      },{id: "news-i-uploaded-to-kaggle-the-microdata-of-all-the-cars-registered-in-spain-for-the-last-10-years",
+      },{id: "news-the-impulse-of-the-new-generation-is-unstopabble",
+          title: 'The impulse of the new generation is unstopabble!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/the-impulse-of-the-new-generation-is-unstoppable/";
+            },},{id: "news-i-uploaded-to-kaggle-the-microdata-of-all-the-cars-registered-in-spain-for-the-last-10-years",
           title: 'I uploaded to Kaggle the microdata of all the cars registered in Spain...',
           description: "",
           section: "News",handler: () => {
