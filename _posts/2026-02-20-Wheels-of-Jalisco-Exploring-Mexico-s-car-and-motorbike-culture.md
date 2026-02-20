@@ -51,39 +51,37 @@ One interesting fact about American classics in Mexico is how many of them have 
 
 Walking around, I was amazed at how many different classic cars you could find just parked on the streets or in small garages. I felt like a kid again, stopping constantly to take pictures of whatever caught my eye. Every car had something worth noticing.
 
-<div class="container">
-  <div class="row">
-    <div class="col-md-4 mb-3">
-      {% include figure.liquid loading="eager" path="assets/img/posts/2026-02-20-Wheels-of-Jalisco-Exploring-Mexico-s-car-and-motorbike-culture/IMG_0949.jpeg" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-md-4 mb-3">
-      {% include figure.liquid loading="eager" path="assets/img/posts/2026-02-20-Wheels-of-Jalisco-Exploring-Mexico-s-car-and-motorbike-culture/IMG_1041.jpeg" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-md-4 mb-3">
-      {% include figure.liquid loading="eager" path="assets/img/posts/2026-02-20-Wheels-of-Jalisco-Exploring-Mexico-s-car-and-motorbike-culture/IMG_0977.jpeg" class="img-fluid rounded z-depth-1" %}
-    </div>
+<div class="row row-cols-1 row-cols-md-3 g-4">
+  <div class="col">
+    {% include figure.liquid loading="eager" path="assets/img/posts/2026-02-20-Wheels-of-Jalisco-Exploring-Mexico-s-car-and-motorbike-culture/IMG_0949.jpeg" class="img-fluid rounded z-depth-1" %}
   </div>
-  <div class="row">
-    <div class="col-md-4 mb-3">
-      {% include figure.liquid loading="eager" path="assets/img/posts/2026-02-20-Wheels-of-Jalisco-Exploring-Mexico-s-car-and-motorbike-culture/IMG_1175.jpeg" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-md-4 mb-3">
-      {% include figure.liquid loading="eager" path="assets/img/posts/2026-02-20-Wheels-of-Jalisco-Exploring-Mexico-s-car-and-motorbike-culture/IMG_1180.jpeg" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-md-4 mb-3">
-      {% include figure.liquid loading="eager" path="assets/img/posts/2026-02-20-Wheels-of-Jalisco-Exploring-Mexico-s-car-and-motorbike-culture/IMG_1186.jpeg" class="img-fluid rounded z-depth-1" %}
-    </div>
+  <div class="col">
+    {% include figure.liquid loading="eager" path="assets/img/posts/2026-02-20-Wheels-of-Jalisco-Exploring-Mexico-s-car-and-motorbike-culture/IMG_1041.jpeg" class="img-fluid rounded z-depth-1" %}
   </div>
-  <div class="row">
-    <div class="col-md-4 mb-3">
-      {% include figure.liquid loading="eager" path="assets/img/posts/2026-02-20-Wheels-of-Jalisco-Exploring-Mexico-s-car-and-motorbike-culture/IMG_1174.jpeg" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-md-4 mb-3">
-      {% include figure.liquid loading="eager" path="assets/img/posts/2026-02-20-Wheels-of-Jalisco-Exploring-Mexico-s-car-and-motorbike-culture/IMG_1165.jpeg" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-md-4 mb-3">
-      {% include figure.liquid loading="eager" path="assets/img/posts/2026-02-20-Wheels-of-Jalisco-Exploring-Mexico-s-car-and-motorbike-culture/IMG_1195.jpeg" class="img-fluid rounded z-depth-1" %}
-    </div>
+  <div class="col">
+    {% include figure.liquid loading="eager" path="assets/img/posts/2026-02-20-Wheels-of-Jalisco-Exploring-Mexico-s-car-and-motorbike-culture/IMG_0977.jpeg" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+<div class="row row-cols-1 row-cols-md-3 g-4">
+  <div class="col">
+    {% include figure.liquid loading="eager" path="assets/img/posts/2026-02-20-Wheels-of-Jalisco-Exploring-Mexico-s-car-and-motorbike-culture/IMG_1175.jpeg" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <div class="col">
+    {% include figure.liquid loading="eager" path="assets/img/posts/2026-02-20-Wheels-of-Jalisco-Exploring-Mexico-s-car-and-motorbike-culture/IMG_1180.jpeg" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <div class="col">
+    {% include figure.liquid loading="eager" path="assets/img/posts/2026-02-20-Wheels-of-Jalisco-Exploring-Mexico-s-car-and-motorbike-culture/IMG_1186.jpeg" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+<div class="row row-cols-1 row-cols-md-3 g-4">
+  <div class="col">
+    {% include figure.liquid loading="eager" path="assets/img/posts/2026-02-20-Wheels-of-Jalisco-Exploring-Mexico-s-car-and-motorbike-culture/IMG_1174.jpeg" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <div class="col">
+    {% include figure.liquid loading="eager" path="assets/img/posts/2026-02-20-Wheels-of-Jalisco-Exploring-Mexico-s-car-and-motorbike-culture/IMG_1165.jpeg" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <div class="col">
+    {% include figure.liquid loading="eager" path="assets/img/posts/2026-02-20-Wheels-of-Jalisco-Exploring-Mexico-s-car-and-motorbike-culture/IMG_1195.jpeg" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
@@ -99,17 +97,15 @@ During my visit to Guadalajara, I had the chance to stop by their café inside t
 
 {% include figure.liquid loading="eager" path="assets/img/posts/2026-02-20-Wheels-of-Jalisco-Exploring-Mexico-s-car-and-motorbike-culture/IMG_1201.jpeg" class="img-fluid rounded z-depth-1" %}
 
-<div class="container">
-  <div class="row">
-    <div class="col-md-4 mb-3">
-      {% include figure.liquid loading="eager" path="assets/img/posts/2026-02-20-Wheels-of-Jalisco-Exploring-Mexico-s-car-and-motorbike-culture/IMG_1204.jpeg" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-md-4 mb-3">
-      {% include figure.liquid loading="eager" path="assets/img/posts/2026-02-20-Wheels-of-Jalisco-Exploring-Mexico-s-car-and-motorbike-culture/IMG_1209.jpeg" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-md-4 mb-3">
-      {% include figure.liquid loading="eager" path="assets/img/posts/2026-02-20-Wheels-of-Jalisco-Exploring-Mexico-s-car-and-motorbike-culture/IMG_1205.jpeg" class="img-fluid rounded z-depth-1" %}
-    </div>
+<div class="row row-cols-1 row-cols-md-3 g-4">
+  <div class="col">
+    {% include figure.liquid loading="eager" path="assets/img/posts/2026-02-20-Wheels-of-Jalisco-Exploring-Mexico-s-car-and-motorbike-culture/IMG_1204.jpeg" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <div class="col">
+    {% include figure.liquid loading="eager" path="assets/img/posts/2026-02-20-Wheels-of-Jalisco-Exploring-Mexico-s-car-and-motorbike-culture/IMG_1209.jpeg" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <div class="col">
+    {% include figure.liquid loading="eager" path="assets/img/posts/2026-02-20-Wheels-of-Jalisco-Exploring-Mexico-s-car-and-motorbike-culture/IMG_1205.jpeg" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
