@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-what-christmas-in-lisbon-told-me-about-cars",
+        },{id: "post-wheels-of-jalisco-exploring-mexico-s-car-and-motorbike-culture",
+        
+          title: "Wheels of Jalisco - Exploring Mexico’s car and motorbike culture",
+        
+        description: "From classic Vochos and Combis to modern pickups and custom Cafe Racers, a journey through the roads of the cradle of Mexican culture",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/Wheels-of-Jalisco-Exploring-Mexico-s-car-and-motorbike-culture/";
+          
+        },
+      },{id: "post-what-christmas-in-lisbon-told-me-about-cars",
         
           title: "What Christmas in Lisbon told me about cars",
         
